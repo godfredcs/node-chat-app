@@ -1,0 +1,8 @@
+{
+  "name": "node-chat-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/godfredcs/node-chat-app.git",
+  "author": "<addaiz.godfred@gmail.com>",
+  "license": "MIT"
+}
