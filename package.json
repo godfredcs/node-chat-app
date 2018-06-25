@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/godfredcs/node-chat-app.git",
   "author": "<addaiz.godfred@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
